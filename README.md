@@ -1,5 +1,7 @@
 # CloudSync
 
+You can sync your file with your google drive. You can upload and download files to your google drive manually or automatically.
+
 ## Getting Started
 
 First, run the development server:

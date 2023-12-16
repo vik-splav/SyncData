@@ -7,7 +7,7 @@ export default function Dashboard () {
   const router = useRouter();
 
   useEffect(() => {
-    router.push("/login");
+    router.push("/setting/setting");
   }, []);
   return <div></div>;
 };
